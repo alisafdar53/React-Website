@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Website/static/css/main.19b3b123.chunk.css",
+    "main.js": "/React-Website/static/js/main.983552fb.chunk.js",
+    "main.js.map": "/React-Website/static/js/main.983552fb.chunk.js.map",
+    "runtime-main.js": "/React-Website/static/js/runtime-main.6a7a6937.js",
+    "runtime-main.js.map": "/React-Website/static/js/runtime-main.6a7a6937.js.map",
+    "static/js/2.8baeb237.chunk.js": "/React-Website/static/js/2.8baeb237.chunk.js",
+    "static/js/2.8baeb237.chunk.js.map": "/React-Website/static/js/2.8baeb237.chunk.js.map",
+    "index.html": "/React-Website/index.html",
+    "static/css/main.19b3b123.chunk.css.map": "/React-Website/static/css/main.19b3b123.chunk.css.map",
+    "static/js/2.8baeb237.chunk.js.LICENSE.txt": "/React-Website/static/js/2.8baeb237.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-Website/static/media/img-9.f97f588f.jpg",
+    "static/media/HeroSection.css": "/React-Website/static/media/size.a323d3c1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a7a6937.js",
+    "static/js/2.8baeb237.chunk.js",
+    "static/css/main.19b3b123.chunk.css",
+    "static/js/main.983552fb.chunk.js"
+  ]
+}
